@@ -20,9 +20,9 @@ h1{
 	display:flex;
 	
 }
-.div-1{
+.pictorial-news-section{
 	height:250px;
-/* 	width:300px; */
+	width:300px;
 	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 	margin:5px;
 	background-color:white;
@@ -35,7 +35,7 @@ h1{
 	background-color:white;
 	
 }
-.div-3{
+.pictorial-news-section{
 	height:400px;
 	width:300px;
 	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
@@ -43,7 +43,7 @@ h1{
 	border-radius:9px;
 	background-color:white;
 }
-.div-1{
+.latest-news-section{
 	display:flex;
 	justify-content:center;
 	flex-direction:column;
