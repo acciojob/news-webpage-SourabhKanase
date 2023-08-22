@@ -1,1 +1,53 @@
-/*  your css code here. If applicable */
+*{
+	background-color:#f5f5f5;
+}
+h1{
+	background-color:#011e29;
+	text-align:center;
+	padding:20px;
+	color:white;
+}
+.section1{
+	display:flex;
+}
+.div-1{
+	height:250px;
+	width:300px;
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+	margin:5px;
+}
+.div-2{
+	height:300px;
+	width:500px;
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+	margin:5px;
+}
+.div-3{
+	height:400px;
+	width:300px;
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+	margin:5px;
+	border-radius:9px;
+}
+.div-1{
+	display:flex;
+	justify-content:center;
+	flex-direction:column;
+	align-items:center;
+     padding:7px;
+	border-radius:9px;
+}
+.div-2{
+	display:flex;
+	justify-content:center;
+	flex-direction:column;
+	align-items:center;
+	padding:7px;
+	
+	border-radius:9px;
+}
+.imageone{
+	heigth:100%;
+	width:100%;
+	margin:5px;
+}
