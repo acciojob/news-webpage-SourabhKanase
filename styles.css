@@ -20,15 +20,18 @@ h1{
 }
 .div-1{
 	height:250px;
-	width:300px;
+/* 	width:300px; */
 	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 	margin:5px;
+	background-color:white;
 }
 .div-2{
 	height:300px;
 	width:500px;
 	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 	margin:5px;
+	background-color:white;
+	
 }
 .div-3{
 	height:400px;
@@ -36,6 +39,7 @@ h1{
 	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 	margin:5px;
 	border-radius:9px;
+	background-color:white;
 }
 .div-1{
 	display:flex;
@@ -44,6 +48,8 @@ h1{
 	align-items:center;
      padding:7px;
 	border-radius:9px;
+	width:300px;
+	background-color:white;
 }
 .div-2{
 	display:flex;
@@ -58,4 +64,7 @@ h1{
 	heigth:100%;
 	width:90%;
 	margin:5px;
+}
+p,ul,ol,h3,h2,li{
+	background-color:white;
 }
